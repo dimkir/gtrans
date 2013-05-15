@@ -6,7 +6,7 @@ ini_set('display_error',1);
 /**
 * Example using RequestHTTP
 */
-$translate_string = "Das ist wunderschön";
+$translate_string = "Das ist wunderschön und wunderbar";
  try{
        $gt = new Gtranslate;
 	echo "[HTTP] Translating [$translate_string] German to English => ".$gt->german_to_english($translate_string)."\n";
