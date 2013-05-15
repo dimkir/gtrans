@@ -10,7 +10,7 @@ $translate_string = "Das ist wunderschön und wunderbar";
  try{
        $gt = new Gtranslate;
 	echo "[HTTP] Translating [$translate_string] German to English => ".$gt->german_to_english($translate_string)."\n";
-
+	echo "This is test";
 	/**
 	* Lets switch the request type to CURL
 	*/
