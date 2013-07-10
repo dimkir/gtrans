@@ -28,3 +28,4 @@ $translate_string = "Das ist wunderschön und wunderbar";
  }
 
 ?>
+something
