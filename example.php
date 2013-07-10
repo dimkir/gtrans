@@ -29,4 +29,6 @@ $translate_string = "Das ist wunderschön und wunderbar";
  }
 
 ?>
+something
 THIS IS I3 TEXT ADDED TO BOTOTOM
+another addition
