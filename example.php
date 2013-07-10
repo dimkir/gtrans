@@ -8,6 +8,7 @@ ini_set('display_error',1);
 */
 $translate_string = "Das ist wunderschön und wunderbar";
  try{
+    // this is comment added to middle
        $gt = new Gtranslate;
 	echo "[HTTP] Translating [$translate_string] German to English => ".$gt->german_to_english($translate_string)."\n";
 	echo "This is test";
@@ -28,3 +29,4 @@ $translate_string = "Das ist wunderschön und wunderbar";
  }
 
 ?>
+THIS IS I3 TEXT ADDED TO BOTOTOM

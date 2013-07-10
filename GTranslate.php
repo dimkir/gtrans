@@ -1,5 +1,5 @@
 <?php
-
+// this is another chagne!
 /**
 * GTranslate - A class to comunicate with Google Translate(TM) Service
 *               Google Translate(TM) API Wrapper
@@ -43,8 +43,12 @@
 * Exception class for GTranslated Exceptions
 */
 
+
 class GTranslateException extends Exception
 {
+    public function smth(){
+	 // this is function
+	}
 	public function __construct($string) {
 		parent::__construct($string, 0);
 	}
