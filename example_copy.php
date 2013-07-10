@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 ini_set('display_error',1);
 
 /**
-* Example using RequestHTTP 1
+* Example using RequestHTTP 1 1
 */
 $translate_string = "Das ist wunderschön und wunderbar";
  try{
